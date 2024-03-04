@@ -3,12 +3,12 @@ import React from "react";
 const listCustomer = [
   {
     id: 1,
-    name: 'Bruno Carneiro',
+    name: 'Ednaldo Pereira',
     skills: ['React', 'Node', 'CSS', 'Webpack']
   },
   {
     id: 2,
-    name: 'Aline Carneiro',
+    name: 'Neymar Júnior',
     skills: ['HTML', 'React Native', 'Go', 'JS']
   },
   {

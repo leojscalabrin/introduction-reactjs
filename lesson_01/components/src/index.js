@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       Hello World
-      <Button onClick={() => soma(10, 20)} name="Leonardo Scalabrin" />
+      <Button onClick={() => soma(10, 20)} name="Neymar Júnior" />
       <ComponentA>
         <ComponentB>
           <Button onClick={() => soma(40, 20)} name="Ednaldo Pereira" />
